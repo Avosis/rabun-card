@@ -1,4 +1,4 @@
   
 # Redirects from what the browser requests to what we serve
-/               https://zurly.com/rabun-card:splat 200
+/*               https://zurly.com/rabun-card:splat 200
 /member         https://zurly.com/rabun-card/member:splat 200
